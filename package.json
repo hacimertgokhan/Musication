@@ -1,0 +1,24 @@
+{
+  "name": "musication",
+  "version": "1.0.0",
+  "description": "Developed by mixeration.",
+  "main": "src/index.js",
+  "scripts": {
+    "reinstall": "reinstall-node-modules",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Mixeration",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^14.3.0",
+    "dotenv": "^10.0.0",
+    "erela.js": "^2.3.3"
+  },
+  "devDependencies": {
+    "reinstall-node-modules": "^2.0.0"
+  }
+}
